@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Denis Dimov</h1>
-<br>
 <h3 align="center">SW/App/Cloud Tech Support & Developer</h3>
 <br>
 
